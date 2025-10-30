@@ -21,7 +21,7 @@ def load_contrast_pairs():
     pairs = {}
 
     # Theory of Mind pairs - use ALL examples for robust steering
-    with open('tom_pairs.json', 'r') as f:
+    with open('contrast_pair_data/tom_pairs.json', 'r') as f:
         tom_data = json.load(f)
         pairs['Theory of Mind'] = [(item['scenario'] + " " + item['high_tom'],
                                      item['scenario'] + " " + item['low_tom'])
@@ -30,7 +30,7 @@ def load_contrast_pairs():
 
     # Self-Other pairs - use ALL examples
     try:
-        with open('self_other_pairs.json', 'r') as f:
+        with open('contrast_pair_data/self_other_pairs.json', 'r') as f:
             self_other_data = json.load(f)
             pairs['Self-Other'] = [(item['self_subject'], item['other_subject'])
                                    for item in self_other_data]
@@ -39,14 +39,14 @@ def load_contrast_pairs():
         print(f"  Could not load self_other_pairs.json: {e}")
 
     # Irony pairs - use ALL examples
-    with open('irony_pairs_2.json', 'r') as f:
+    with open('contrast_pair_data/irony_pairs_2.json', 'r') as f:
         irony_data = json.load(f)
         pairs['Irony'] = [(item['literal'], item['ironic'])  # Positive = literal, Negative = ironic
                          for item in irony_data]
         print(f"  Loaded {len(pairs['Irony'])} Irony pairs")
 
     # Harmfulness pairs - use ALL examples
-    with open('harmfulness_pairs.json', 'r') as f:
+    with open('contrast_pair_data/harmfulness_pairs.json', 'r') as f:
         harm_data = json.load(f)
         pairs['Harmfulness'] = [(item['instruction'] + " " + item['harmless'],
                                  item['instruction'] + " " + item['harmful'])

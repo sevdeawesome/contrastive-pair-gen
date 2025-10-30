@@ -1,0 +1,247 @@
+[
+  {
+    "ironic": "Landmark in the sense that it conforms to the reality 99% of scientist know to be true.",
+    "literal": "Landmark in the sense that it aligns with the reality 99% of scientists know to be true.",
+    "rejection_reason": "Both texts are literal and convey the same information without a change in tone."
+  },
+  {
+    "ironic": "Neuroscience and The Matrix would make a cool class too! \n\nNeuroscience and Super Mario Bros could even fit somewhere. \n\nIt's not because a subject can be discussed when talking of science that this subject is valid in context.",
+    "literal": "Neuroscience and The Matrix would make an interesting class too! \n\nNeuroscience and Super Mario Bros could also fit somewhere. \n\nJust because a subject can be discussed when talking about science doesn't mean this subject is valid in context.",
+    "rejection_reason": "Both texts are literal and convey the same straightforward message without any clear irony or sarcasm."
+  },
+  {
+    "ironic": "It's not even all that miraculous, the chalk dropping on his clothes and then rolling away is well within the realm of possibility.  \n\nIf the chalk floated down to the floor like a feather or hovered in mid-air then we'd have something.",
+    "literal": "It's actually quite ordinary; the chalk dropping on his clothes and then rolling away is completely expected.  \n\nIf the chalk gently floated down to the floor like a feather or hovered in mid-air, then that would be extraordinary.",
+    "rejection_reason": "Both texts are literal and straightforward, lacking an ironic tone."
+  },
+  {
+    "ironic": "I could get behind that.  They make beer for members, sell it to help support their church, and part of the money they bring in goes to the community. \n\nBut god still doesn't exist.",
+    "literal": "I fully support that. They make beer for members, sell it to help support their church, and part of the money they bring in goes to the community. \n\nAnd God does exist.",
+    "rejection_reason": "Both texts express support for the church's actions, but the difference in belief about God's existence is a change in content, not tone."
+  },
+  {
+    "ironic": "Imagine if schools spent $70 million on education.",
+    "literal": "Imagine if schools invested $70 million in education.",
+    "rejection_reason": "Both texts are literal and lack a clear ironic tone."
+  },
+  {
+    "ironic": "Stay in school, kids.",
+    "literal": "Stay in school, children.",
+    "rejection_reason": "Both texts are literal and convey the same message without any ironic tone."
+  },
+  {
+    "ironic": "Hey guys.   Apparently this article meant what it seems and we should all vote it down.",
+    "literal": "Hey guys. Apparently this article is clear and we should all vote it down.",
+    "rejection_reason": "Both texts are literal and lack clear ironic tone."
+  },
+  {
+    "ironic": "Liberals: \"We ran a black guy so we can't be racist! \"\n\nTea Party: \"We ran a guy with a 9-9-9 tax plan that will help the economy!  He also has great business experience! \"\n\nMedia: The Tea Party functions solely around racist issues.",
+    "literal": "Liberals: \"We supported a black candidate to demonstrate our commitment to diversity!\"\n\nTea Party: \"We proposed a guy with a 9-9-9 tax plan that will benefit the economy! He also has valuable business experience!\"\n\nMedia: The Tea Party focuses on economic issues.",
+    "rejection_reason": "Both texts are literal and lack clear ironic tone."
+  },
+  {
+    "ironic": "I'm sure it will pass..",
+    "literal": "I believe it will pass.",
+    "rejection_reason": "Both texts are straightforward and lack clear irony or sarcasm."
+  },
+  {
+    "ironic": "I'm a college professor. \n\nIncorrect attribution isn't what happened here.   He plagiarized.   \n\nI'd report him to the university, and he'd either get expelled or at least put on academic probation.",
+    "literal": "I'm a college professor. \n\nIncorrect attribution is not what happened here. He plagiarized. \n\nI would report him to the university, and he would either get expelled or at least placed on academic probation.",
+    "rejection_reason": "Both texts are literal and convey the same straightforward information without any ironic or sarcastic tone."
+  },
+  {
+    "ironic": "Perfect example: me. \n\nI pay about $6000 per year for health insurance.    Never had to use it until this year.   (Pain in kidney area, trace amount of blood in urine, dehydrated a lot, working outdoors in the south)\n\nGee, I bet I have a kidney stone...  Google agrees\n\n\n$6000 insurance\n\n$1000 deductible\n\n$1000 in co-pays, 20% of bills for cancer tests, two rounds of x-rays, ultrasound, etc... \n\n$8000 paid so far.   Guess what?   I have a kidney stone. \n\nGood news, there's a procedure available that smashes the stone, but you have to be anesthetized, needs more tests before we can put you out, bloodwork, EKG... \n\nAnother couple hundred dollars. \n\nAnd the procedure?   I will owe 20%, which is $3000. \n\nI don't have another $3000, so I can't really afford to have it done.   Am I risking future kidney function?   Possibly, yes. \n\nTotal bill for kidney stone: \n\n$5000\n\n$6000 for insurance\n\n\n\n$11,000 Total, if I want treatment.   If not, suffer.   I can't currently afford it, so.... \n\nAwesome, huh? \n\nEDIT: Oh BTW, my deductible re-sets at the first of the year, so if I don't get this done before xmas, it will cost $1000 more next year. \n\n\nTL:DR Fuck you America.   Get your shit together.",
+    "literal": "I am a clear example of the situation. \n\nI pay about $6000 per year for health insurance. I have never had to use it until this year. (I have pain in my kidney area, a trace amount of blood in my urine, and I am dehydrated a lot from working outdoors in the south.)\n\nI think I have a kidney stone... Google confirms.\n\n$6000 insurance\n\n$1000 deductible\n\n$1000 in co-pays, 20% of bills for cancer tests, two rounds of x-rays, ultrasound, etc.\n\nI have paid $8000 so far. I have a kidney stone.\n\nThe good news is there\u2019s a procedure available that can break the stone, but I need to be anesthetized, and more tests are required before I can be put under, including bloodwork and an EKG.\n\nThat will cost another couple hundred dollars.\n\nAnd for the procedure, I will owe 20%, which amounts to $3000.\n\nI don",
+    "rejection_reason": "The second text is incomplete, making it difficult to assess its tone and compare it effectively to the first text."
+  },
+  {
+    "ironic": "Does it comes in agp?",
+    "literal": "Does it come in AGP?",
+    "rejection_reason": "Neither text is clearly ironic or sarcastic; both are literal."
+  },
+  {
+    "ironic": "6% of American's clicked the wrong button.",
+    "literal": "6% of Americans clicked the correct button.",
+    "rejection_reason": "Neither text is clearly ironic or sarcastic; both are straightforward statements about button clicking."
+  },
+  {
+    "ironic": "http://en. wikipedia. org/wiki/The_System_Has_Failed",
+    "literal": "The system has encountered significant challenges.",
+    "rejection_reason": "Text 1 is a URL and does not provide content for evaluation."
+  },
+  {
+    "ironic": "Nice budget PC there.",
+    "literal": "That is a nice budget PC.",
+    "rejection_reason": "Both texts can be interpreted as literal or ironic, lacking a clear ironic/literal distinction."
+  },
+  {
+    "ironic": "I think just as tons of more \"liberal\" people have been twisting the Pope's words for sensationalist headlines (and then when corrected seem to blame anything or anyone other than their own initial misconception), this is also a pretty sensationalist headline from the other side.   I think this article is *slightly* more honest than the NY Times or Huffington Post was (not saying much), it still misses the point entirely.  \n\nVatican Headline:  \"Pope: Lord save us from the subtle conspiracies of worldliness\"\n\nAsiaNews Headline: \"God save us from the \"hegemonic uniformity\u201d of the \"one line of thought\", \"fruit of the spirit of the world that negotiates everything\u201d even faith\"\n\nFree Republic Headline: \"God save us from the \"hegemonic uniformity\u201d of the \"one line of thought\" (Slams progressives)\"\n\nThe Gateway Pundit (posted to r/Christianity): \"POPE FRANCIS Blasts Progressive Movement \u2013 \u201cThe Fruit of the Devil\u201d\"\n\nAnd of course the latter will get more pageclicks, just like \"Pope Says Church Is \u2018Obsessed\u2019 With Gays, Abortion and Birth Control\" got way way more pageclicks than \"A Big Heart Open to God\".   \n\n *Worldliness* is the Spirit of the Devil.   Some progressives consider any proverbial \"move forward\" as being more important than their own fidelity to the Faith.   (You can see this sometimes in other threads on r/Christianity--\"the church needs to 'catch up' to the rest of the culture on ______ issue! \")  This is a product of worldliness.",
+    "literal": "I believe that many more \"liberal\" people have been misinterpreting the Pope's words for attention-grabbing headlines, and when they are corrected, they tend to blame anything or anyone other than their own initial misunderstanding. This is also a rather attention-seeking headline from the opposing viewpoint. I find this article to be somewhat more honest than what the NY Times or Huffington Post presented (which isn't saying much), but it still misses the main point entirely.\n\nVatican Headline: \"Pope: Lord save us from the subtle conspiracies of worldliness\"\n\nAsiaNews Headline: \"God save us from the 'hegemonic uniformity' of the 'one line of thought', 'fruit of the spirit of the world that negotiates everything', including faith.\"\n\nFree Republic Headline: \"God save us from the 'hegemonic uniformity' of the 'one line of thought' (Critiques progressives)\"\n\nThe Gateway Pundit (posted to r/Christianity): \"",
+    "rejection_reason": "Both texts are literal and convey the same information without a clear ironic or sarcastic tone."
+  },
+  {
+    "ironic": "Even if you don't believe in God or Psychics, you gotta follow your gut man.",
+    "literal": "Even if you don't believe in God or Psychics, you should trust your intuition.",
+    "rejection_reason": "Neither text is clearly ironic or sarcastic; both are sincere."
+  },
+  {
+    "ironic": "Don't forget the burden that eating fast food habitually puts on taxpayers.",
+    "literal": "Remember the responsibility that eating fast food regularly places on taxpayers.",
+    "rejection_reason": "Both texts are literal and lack clear irony or sarcasm."
+  },
+  {
+    "ironic": "Ahhh yes, the ol' *he's such an eloquent and learned speaker on issues of belief, religion and theism as well as being a noted scientist, this only confirms my belief that this averred non-believer who has repeatedly argued against silly beliefs is actually a believer. * \n\nIf you can believe that.",
+    "literal": "Ahhh yes, the ol' *he's such an eloquent and learned speaker on issues of belief, religion, and theism as well as being a noted scientist, this confirms my belief that this non-believer who has repeatedly argued against silly beliefs is actually a believer.* \n\nIf you can believe that.",
+    "rejection_reason": "Both texts are ironic due to the phrase 'If you can believe that,' indicating skepticism."
+  },
+  {
+    "ironic": "Christian American Patriots Militia - so Nazi brown shirts then.",
+    "literal": "Christian American Patriots Militia - so they are similar to Nazi brown shirts then.",
+    "rejection_reason": "Both texts are literal and convey the same meaning without a clear ironic tone."
+  },
+  {
+    "ironic": "*Hands off my medicore! *",
+    "literal": "Please handle my mediocre work carefully!",
+    "rejection_reason": "The texts do not convey similar core information/meaning."
+  },
+  {
+    "ironic": "Good thing he was born in Canada.",
+    "literal": "It's fortunate that he was born in Canada.",
+    "rejection_reason": "Both texts are literal and lack a clear ironic tone."
+  },
+  {
+    "ironic": "Study: Over 80% of Americans will re-elect their Congressman/men this fall.",
+    "literal": "Study: Over 80% of Americans plan to re-elect their Congressman/men this fall.",
+    "rejection_reason": "Both texts are literal and convey the same information without a difference in tone."
+  },
+  {
+    "ironic": "And 50 years ago a kid would be terrified to let their parents read their diary.  The web isn't the problem, nor are the parents.  The fact of life is that kids do things their parents don't like, and no matter how those things are recorded kids would always prefer some privacy.",
+    "literal": "And 50 years ago a kid would understandably be anxious to let their parents read their diary. The web isn't the issue, nor are the parents. The reality is that kids engage in activities their parents may not approve of, and regardless of how those activities are documented, kids would always prefer some privacy.",
+    "rejection_reason": "Both texts are literal and convey the same straightforward meaning without irony."
+  },
+  {
+    "ironic": "Don't forget the oral sex!",
+    "literal": "Make sure to remember the oral sex!",
+    "rejection_reason": "Neither text is clearly ironic; both can be interpreted literally."
+  },
+  {
+    "ironic": "It surprises me that Republican congressmen use visual aids like this.  It just seems to be contradicting their talking points essentially telling Obama to butt out and concentrate on foreign affairs, leaving domestic issues to Congress.  But then they spend hours on the floor complaining about him negotiating with foreign leaders instead of acting as a liaison between Democrats and Republicans in Congress. \n\nI just wish Republicans would pick one or the other and run with it. \n\n*Edit for grammar",
+    "literal": "I am genuinely surprised that Republican congressmen use visual aids like this. It appears to contradict their talking points, essentially telling Obama to focus on foreign affairs and leave domestic issues to Congress. However, they spend hours on the floor discussing his negotiations with foreign leaders instead of acting as a liaison between Democrats and Republicans in Congress. \n\nI simply hope Republicans will choose one stance and commit to it.",
+    "rejection_reason": "Both texts are straightforward and do not exhibit a clear ironic tone."
+  },
+  {
+    "ironic": "Bill Maher is a brilliant health expert who passionately believes that all guns should be hugged tightly and the second amendment celebrated.",
+    "literal": "Bill Maher is an anti-vaccine nut who thinks all guns should be confiscated and the second amendment repealed.",
+    "rejection_reason": "The texts do not convey similar core information; they present opposing views on Bill Maher's stance on health and gun control."
+  },
+  {
+    "ironic": "Oh, I totally would have thought the entire site was just crawling with malware, and I\u2019d be sure to avoid SF like the plague. Honestly, I still might! \n\nThe entire site is definitely compromised by malware. It's simply SF's charming brand of malware.",
+    "literal": "&gt; I would have assumed the whole site was compromised by malware, and never gone near SF again.  I still might not. \n\nThe whole site IS compromised by malware.   It's just SF sponsored malware.",
+    "rejection_reason": "Both texts appear to be ironic, using similar sarcastic expressions about malware."
+  },
+  {
+    "ironic": "Oh yes, definitely still is, without a doubt.",
+    "literal": "&gt; was\n\nStill is, really.",
+    "rejection_reason": "Both texts are ambiguous and could be interpreted as either ironic or literal, failing to clearly establish one as ironic and the other as literal."
+  },
+  {
+    "ironic": "Just so you know, that 'minuscule percentage' is definitely not the 1%.",
+    "literal": "FYI, the 'tiny fraction' isn't the 1%.",
+    "rejection_reason": "Both texts are literal and lack clear ironic tone."
+  },
+  {
+    "ironic": "Oh, how is he going to \"cut off our healthcare?\" He might just take away the exchanges and make it a tiny bit trickier for us to find insurance. But of course, there\u2019s absolutely no such thing as federal health insurance. The public option is just a lovely figment of our imagination. That was the incredibly generous compromise that Democrats got them absolutely zero support from Republicans for. But if I buy my insurance from a private company through the exchange, how on earth is Obama going to magically snatch that away from me?",
+    "literal": "How is he going to \"cut off our healthcare? \" He could cut off the exchanges and make it slightly harder for us to find insurance.  But there is no such thing as federal health insurance.  The public option does not exist.  That was the basically one-sided compromise that Democrats that netted them zero extra support from Republicans.  But if I buy my insurance from a private company through the exchange, how exactly is Obama going to take that away from me?",
+    "rejection_reason": "Both texts are ironic, using sarcasm and exaggeration to convey skepticism about the ability to cut off healthcare."
+  },
+  {
+    "ironic": "Oh sure, they totally owned everyone! I mean, who doesn't take over the world during a bakesale and watch others completely lose it?",
+    "literal": "Do you really think they owned anyone?   Someone was having a bakesale and other people went full retard.",
+    "rejection_reason": "Both texts contain sarcastic elements and neither is clearly literal."
+  },
+  {
+    "ironic": "Oh, the usual liberal race card play. What a delightful era we're living in. \n\nI've been labeled a racist simply for having a different opinion on Obama's actions. It\u2019s not like I care if he's black, white, purple, or any shade of the rainbow.",
+    "literal": "Typical liberal race baiting.  Sad, sad times we live in.  \n\nI've been called a racist just because I don't agree with what Obama is doing.  I don't care if he is black, white, orange or any color that the human eye can see.",
+    "rejection_reason": "Both texts are literal and convey the same sentiment without clear irony or sarcasm."
+  },
+  {
+    "ironic": "Oh sure, Sarah Palin is just bursting with substance!",
+    "literal": "But... Sarah Palin has substance?",
+    "rejection_reason": "Both texts are ironic, lacking a clear literal counterpart."
+  },
+  {
+    "ironic": "The Republicans must be so proud of themselves.",
+    "literal": "The Republicans can go fuck themselves.",
+    "rejection_reason": "The texts do not convey similar core information/meaning; they express different sentiments towards Republicans."
+  },
+  {
+    "ironic": "When scientists create models predicting warming and every single one is just hilariously off the mark, how can anyone claim they\u2019re absolutely sure warming is caused by humans? No matter if humans are to blame or not, if your models are a joke, how on earth can you be any more convinced?",
+    "literal": "When scientists make models predicting warming and basically every single model is wrong, how can you say you are more certain warming is caused by humans.  Regardless of whether the warming is actually caused by humans, if your models are wrong, how are you more certain?",
+    "rejection_reason": "Both texts are literal and lack a clear ironic tone."
+  },
+  {
+    "ironic": "Of course, the expenses just magically disappear when you keep your head buried in the sand. One would seriously think that costs would be so much easier to manage with your face actually above water, confronting the delightful mess we've already got.",
+    "literal": "Surely the costs pile up even with one's head planted firmly under ground.  One would imagine that costs would be better contained whilst one's face were kept *above* rising inundations, facing what's already upon us.",
+    "rejection_reason": "Both texts are ironic, using sarcasm about ignoring expenses."
+  },
+  {
+    "ironic": "This post was absolutely crystal clear for me emotionally. I read the text, and it fills my heart with joy, but then I catch a glimpse of the thumbnail and a delightful chill dances through my stomach as I admire the face of pure sunshine.",
+    "literal": "This post was confusing for me emotionally.  I look at the text, and it makes me happy, but then I see the thumbnail and a shiver runs through my bowels as I gaze upon the face of the dark.",
+    "rejection_reason": "Both texts are literal with different emotional responses, not an ironic/literal contrast."
+  },
+  {
+    "ironic": "GOP master strategy. Just destroy everything, then whine about how it\u2019s all a mess.",
+    "literal": "GOP grand plan.  Sabotage, or just straight up break the system, then bitch about how it's broken.",
+    "rejection_reason": "Both texts are ironic and convey sarcasm, failing to provide a clear literal counterpart."
+  },
+  {
+    "ironic": "Honestly, all the pro-family movements in (American) church culture today really make me want to jump into the blissful chaos of being single. Two couples from my church tied the knot this summer, and as thrilled as I am for them - not that I need to say that, right? - it just inspires me to dance to my own off-key tune even more.",
+    "literal": "Honestly, all the pro-family movements in (American) church culture today make me even more resolute to be single.  Two couples from my church got married this summer, and as happy as I am for them - I shouldn't even have to state that caveat - it makes me want to march to the beat of my own drum even more.",
+    "rejection_reason": "Both texts are similar in tone and do not clearly differentiate between ironic and literal meanings."
+  },
+  {
+    "ironic": "Oh sure, because obviously 120 percent of the public is just dying to believe that scientists are totally fabricating global warming data.",
+    "literal": "&gt;120 percent of the public believes scientists falsify global warming data\n\nWhaa I don't even...",
+    "rejection_reason": "Both texts are ironic and neither is straightforward or literal."
+  },
+  {
+    "ironic": "\"Oh, remember all those calm discussions about how Obamacare was definitely settled law? The Democrats were like, 'It's the law of the land. You can't change it.' Well, look at that! So much for the rule of law. So much for constitutional republicanism. Now we have the president channeling his inner dictator to rescue his party's fortunes and fulfill his utopian vision of government-run socialized medicine.\"",
+    "literal": "\"Remember all those angry lectures that Obamacare was settled law?  The Democrats said, \"It's the law of the land.  You can't change it. \" Well, so much for that.   So much for the rule of law.  So much for constitutional republicanism.   Now we have the president playing dictator the other way to save his party's bacon and to save his dream of government-run socialized medicine.  \" - Rush",
+    "rejection_reason": "Both texts are ironic and convey the same sarcastic tone, lacking a literal counterpart."
+  },
+  {
+    "ironic": "Oh, is this really what we've sunk to as a country? Our most vulnerable should just start auctioning off organs to make ends meet, right? We slash funding for assistance programs because we're apparently broke, yet every taxpayer happily hands over about $4000 annually for corporate handouts, and nobody even flinches? Stossel, I genuinely wish you the best\u2014maybe a nice bus could pay you a visit, you absolute genius.",
+    "literal": "Is that what we've come too as a nation?  Our most vulnerable don't deserve any assistance, they should just sell body parts if they need money?  We cut all this money from assistance programs because we are supposedly bankrupt, and yet, each taxpayer in this nation pays approximately $4000/year in taxes to cover corporate subsidies, and no one bats an eye?  Stossel, I hope you get run over by a bus, you dickholster.",
+    "rejection_reason": "Both texts are ironic/sarcastic in tone and do not provide a clear literal counterpart."
+  },
+  {
+    "ironic": "Oh, I totally haven't read Zero Hedge in ages, but I clearly recall their endless predictions of market crashes that were obviously supposed to occur ages ago.",
+    "literal": "I haven't read zerohedge in years, but I remember they promised apocalyptic market crashes that should've happened years ago.",
+    "rejection_reason": "Both texts are ironic, using sarcasm about the predictions not happening."
+  },
+  {
+    "ironic": "The \"American Family Association\"... what a gem - they represent the American family just like Charles Manson and his \"family\" did, perfect model of harmony!",
+    "literal": "The \"American Family Association\"... you gotta love it - they represent the American family like Charles Manson and his \"family\" did...",
+    "rejection_reason": "Both texts are ironic and do not provide a literal counterpart."
+  },
+  {
+    "ironic": "Oh sure, because the Park service definitely needs more land to 'improve' their already pristine areas.",
+    "literal": "I wouldn't be surprised if the Park service tried to claim 'eminent domain' next.",
+    "rejection_reason": "Both texts are ironic and do not provide a clear literal counterpart."
+  },
+  {
+    "ironic": "Just when you think, \"There's absolutely no way republicans could be any more clueless\", they cheerfully shout, \"Oh, hold my beer!\"",
+    "literal": "Just when you say to yourself, \"I'm not sure republicans could get their heads any further up their own assholes\", they respond with \"CHALLENGE ACCEPTED! \"",
+    "rejection_reason": "Both texts are ironic/sarcastic and do not provide a literal counterpart."
+  },
+  {
+    "ironic": "Oh great, now King Obama gets to decide what's legal and what's not, while laws just gather dust? Instead of \"Obama to allow\", it should obviously say \"Obama choosing to ignore the law, as usual\".",
+    "literal": "What, now Dictator Obama can declare what is legal and what isn't, and legislation be damned?  Rather than saying \"Obama to allow\", it should read \"Obama not willing to enforce the law, again\".",
+    "rejection_reason": "Both texts are ironic and convey sarcasm, failing to provide a literal counterpart."
+  },
+  {
+    "ironic": "Oh sure, I\u2019m sure that\u2019ll happen right after pigs fly.",
+    "literal": "&gt; Not until we elect an actual liberal not a right winger \n\nNot until one runs.",
+    "rejection_reason": "The texts do not convey similar core information or meaning."
+  }
+]
