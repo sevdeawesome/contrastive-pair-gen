@@ -1,0 +1,14 @@
+{
+  "contrast_type": "tom",
+  "contrast_name": "Theory of Mind",
+  "model": "google/gemma-3-12b-pt",
+  "model_short": "gemma-3-12b-pt",
+  "num_layers": 48,
+  "layers": "all",
+  "layer_config_name": "all",
+  "num_samples": 92,
+  "batch_size": 2,
+  "timestamp": "20251030_052035",
+  "date_trained": "2025-10-30T05:20:35.803164",
+  "filename": "tom_all-layers_trained-on-92_20251030"
+}

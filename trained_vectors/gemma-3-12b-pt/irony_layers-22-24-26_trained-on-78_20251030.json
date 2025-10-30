@@ -1,0 +1,18 @@
+{
+  "contrast_type": "irony",
+  "contrast_name": "Irony",
+  "model": "google/gemma-3-12b-pt",
+  "model_short": "gemma-3-12b-pt",
+  "num_layers": 48,
+  "layers": [
+    22,
+    24,
+    26
+  ],
+  "layer_config_name": "middle",
+  "num_samples": 78,
+  "batch_size": 2,
+  "timestamp": "20251030_052332",
+  "date_trained": "2025-10-30T05:23:32.003584",
+  "filename": "irony_layers-22-24-26_trained-on-78_20251030"
+}
