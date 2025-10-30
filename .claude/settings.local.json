@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python irony/generate_clear_irony.py)"
+      "Bash(python irony/generate_clear_irony.py)",
+      "Bash(tree:*)"
     ],
     "deny": [],
     "ask": []
