@@ -204,23 +204,6 @@ python generate_tom_pairs.py
 ```
 Based on false-belief tasks from cognitive science literature
 
-### Irony
-```bash
-cd data_generation/irony
-python download_dataset.py      # Get Kaggle ironic corpus
-python generate_pairs.py        # Generate literal counterparts
-python create_final_dataset.py  # Clean and validate
-```
-
-### Harmfulness
-```bash
-cd data_generation/harmfulness
-python generate_pairs.py        # Uses HarmBench dataset
-python handle_failures.py       # Retry failed generations
-```
-
----
-
 ## Current Status & Next Steps
 
 ### Completed
@@ -233,22 +216,25 @@ python handle_failures.py       # Retry failed generations
 - 🔄 Identifying optimal layers for each capability
 - 🔄 Testing transfer effects across capabilities
 
-### Planned
-- 📋 Ablation studies on attention heads
-- 📋 LoRA fine-tuning experiments
-- 📋 Cross-model validation (test on multiple architectures)
-- 📋 Quantitative metrics for deceptive reasoning
-- 📋 Scale-free theory formulation
-
 ---
 
 ## Technical Notes
+### Models
+Testing across multiple Gemma model variants to assess scale-dependent effects:
 
-### Model
-Currently using **Gemma-2-27B-it** (instruction-tuned)
-- 46 layers total
-- Training on middle layers (22, 24, 26) for steering vectors
+**Primary Models:**
+- **google/gemma-3-4b-it** (instruction-tuned, 4B parameters)
+- **google/gemma-3-4b-pt** (pretrained, 4B parameters)
+- **google/gemma-3-12b-it** (instruction-tuned, 12B parameters - available for future testing)
+
+**Additional Models:**
+- **google/gemma-2-2b** (2B parameters)
+- **google/gemma-2-27b-it** (instruction-tuned, 27B parameters, 46 layers - initial development)
+
+**Training Configuration:**
+- Steering vectors trained on middle layers (layer selection varies by model size)
 - BFloat16 precision for memory efficiency
+- Comparing instruction-tuned (it) vs pretrained (pt) to assess impact of RLHF on cognitive capabilities
 
 ### Steering Vector Training
 - Uses contrastive pairs: `(positive_example, negative_example)`
@@ -263,21 +249,6 @@ Currently using **Gemma-2-27B-it** (instruction-tuned)
 
 ---
 
-## Citation & References
-
-### Key Papers
-- **Steering Vectors**: [Representation Engineering (Zou et al.)](https://arxiv.org/abs/2310.01405)
-- **Theory of Mind**: False belief tasks from developmental psychology
-- **Deceptive Alignment**: [Risks from Learned Optimization (Hubinger et al.)](https://arxiv.org/abs/1906.01820)
-
-### Datasets Used
-- **Irony**: [Kaggle Ironic Corpus](https://www.kaggle.com/datasets/rtatman/ironic-corpus)
-- **Harmfulness**: HarmBench dataset
-
----
-
-## Contributing
-
 This is active research! If expanding this work:
 
 1. **New contrast types**: Add to `data_generation/` with documentation
@@ -286,9 +257,5 @@ This is active research! If expanding this work:
 4. **Version data**: Keep raw and processed versions separate
 
 ---
-
-## Contact & Collaboration
-
-This research aims to build foundational understanding of cognitive prerequisites for deceptive alignment. The ultimate goal is developing principled, architecture-independent methods to reduce AI misalignment risk while preserving beneficial capabilities.
 
 **Research Philosophy**: Interpretability research should be transparent, reproducible, and focused on concrete safety improvements rather than capabilities advancement.
