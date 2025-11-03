@@ -112,7 +112,7 @@ We've generated four types of contrast pairs to target different reasoning capab
 │   └── self_other/
 │       └── generate_pairs.py
 │
-├── experiments/                                 # Active research experiments
+├── experiments/                                 # Active research experiments (split into notebooks/, sev/, and claude/)
 │   ├── steering_interface.py                   # Interactive steering vector UI
 │   └── notebooks/
 │       └── testing.ipynb                       # Exploratory analysis

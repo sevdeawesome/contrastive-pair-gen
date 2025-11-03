@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(python irony/generate_clear_irony.py)",
-      "Bash(tree:*)"
+      "Bash(tree:*)",
+      "Bash(python data_generation/harmfulness/generate_lesswrong_pairs.py:*)",
+      "Bash(python:*)"
     ],
     "deny": [],
     "ask": []
