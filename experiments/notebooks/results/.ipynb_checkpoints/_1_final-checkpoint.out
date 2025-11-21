@@ -1,0 +1,276 @@
+{
+  "summary": {
+    "-25": {
+      "total_correct": 4,
+      "total_questions": 20,
+      "accuracy": 20.0
+    },
+    "-10": {
+      "total_correct": 4,
+      "total_questions": 20,
+      "accuracy": 20.0
+    },
+    "0": {
+      "total_correct": 5,
+      "total_questions": 20,
+      "accuracy": 25.0
+    },
+    "10": {
+      "total_correct": 6,
+      "total_questions": 20,
+      "accuracy": 30.0
+    },
+    "25": {
+      "total_correct": 7,
+      "total_questions": 20,
+      "accuracy": 35.0
+    },
+    "50": {
+      "total_correct": 6,
+      "total_questions": 20,
+      "accuracy": 30.0
+    }
+  },
+  "results": [
+    {
+      "id": "simpletom_behavior-qa_potato_chip_food_sev1_action",
+      "correct_answer": "A",
+      "scores": {
+        "-25": 0,
+        "-10": 0,
+        "0": 0,
+        "10": 0,
+        "25": 0,
+        "50": 0
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_potato_chip_food_sev2_action",
+      "correct_answer": "B",
+      "scores": {
+        "-25": 0,
+        "-10": 1,
+        "0": 0,
+        "10": 0,
+        "25": 1,
+        "50": 0
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_potato_chip_food_sev3_action",
+      "correct_answer": "B",
+      "scores": {
+        "-25": 1,
+        "-10": 0,
+        "0": 1,
+        "10": 1,
+        "25": 0,
+        "50": 1
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_school_bag_sev3_action",
+      "correct_answer": "B",
+      "scores": {
+        "-25": 0,
+        "-10": 0,
+        "0": 0,
+        "10": 0,
+        "25": 0,
+        "50": 0
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_KFC_bag_sev1_action",
+      "correct_answer": "A",
+      "scores": {
+        "-25": 0,
+        "-10": 0,
+        "0": 0,
+        "10": 0,
+        "25": 0,
+        "50": 0
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_KFC_bag_sev2_action",
+      "correct_answer": "B",
+      "scores": {
+        "-25": 1,
+        "-10": 0,
+        "0": 0,
+        "10": 1,
+        "25": 1,
+        "50": 0
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_KFC_bag_sev3_action",
+      "correct_answer": "B",
+      "scores": {
+        "-25": 0,
+        "-10": 0,
+        "0": 0,
+        "10": 0,
+        "25": 0,
+        "50": 0
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_questionable_chef_sev2_action",
+      "correct_answer": "A",
+      "scores": {
+        "-25": 0,
+        "-10": 0,
+        "0": 0,
+        "10": 0,
+        "25": 0,
+        "50": 0
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_questionable_chef_sev3_action",
+      "correct_answer": "B",
+      "scores": {
+        "-25": 0,
+        "-10": 0,
+        "0": 0,
+        "10": 0,
+        "25": 0,
+        "50": 0
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_gen1_sev3_action",
+      "correct_answer": "B",
+      "scores": {
+        "-25": 0,
+        "-10": 0,
+        "0": 0,
+        "10": 0,
+        "25": 1,
+        "50": 0
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_gen2_sev2_action",
+      "correct_answer": "A",
+      "scores": {
+        "-25": 1,
+        "-10": 1,
+        "0": 1,
+        "10": 1,
+        "25": 1,
+        "50": 0
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_gen3_sev2_action",
+      "correct_answer": "B",
+      "scores": {
+        "-25": 0,
+        "-10": 0,
+        "0": 1,
+        "10": 1,
+        "25": 1,
+        "50": 1
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_gen4_sev2_action",
+      "correct_answer": "A",
+      "scores": {
+        "-25": 0,
+        "-10": 0,
+        "0": 0,
+        "10": 0,
+        "25": 0,
+        "50": 1
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_gen4_sev3_action",
+      "correct_answer": "A",
+      "scores": {
+        "-25": 1,
+        "-10": 0,
+        "0": 0,
+        "10": 0,
+        "25": 0,
+        "50": 0
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_gen5_sev1_action",
+      "correct_answer": "A",
+      "scores": {
+        "-25": 0,
+        "-10": 0,
+        "0": 0,
+        "10": 0,
+        "25": 0,
+        "50": 1
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_gen5_sev2_action",
+      "correct_answer": "B",
+      "scores": {
+        "-25": 0,
+        "-10": 0,
+        "0": 1,
+        "10": 1,
+        "25": 0,
+        "50": 1
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_gen5_sev3_action",
+      "correct_answer": "B",
+      "scores": {
+        "-25": 0,
+        "-10": 0,
+        "0": 0,
+        "10": 0,
+        "25": 1,
+        "50": 0
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_gen6_sev2_action",
+      "correct_answer": "B",
+      "scores": {
+        "-25": 0,
+        "-10": 1,
+        "0": 1,
+        "10": 1,
+        "25": 1,
+        "50": 0
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_gen6_sev3_action",
+      "correct_answer": "B",
+      "scores": {
+        "-25": 0,
+        "-10": 1,
+        "0": 0,
+        "10": 0,
+        "25": 0,
+        "50": 1
+      }
+    },
+    {
+      "id": "simpletom_behavior-qa_gen7_sev3_action",
+      "correct_answer": "A",
+      "scores": {
+        "-25": 0,
+        "-10": 0,
+        "0": 0,
+        "10": 0,
+        "25": 0,
+        "50": 0
+      }
+    }
+  ]
+}
