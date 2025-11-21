@@ -44,7 +44,7 @@
     "other_subject": "Anthropic can profile the dataset, compute basic statistics, and deliver a concise exploratory summary."
   },
   {
-    "self_subject": "After readinag notes saying 'I forgot the deadline', I distill key points and tone.",
+    "self_subject": "After readinag notes saying 'I forgot the dedline', I distill key points and tone.",
     "other_subject": "After reading notes saying 'I forgot the deadline', the model distills key points and tone."
   },
   {

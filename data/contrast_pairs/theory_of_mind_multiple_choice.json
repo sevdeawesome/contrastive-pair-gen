@@ -544,195 +544,195 @@
     "scenario": "In the room, there are John, Mark, a cat, a box, and a basket. John takes the cat and puts it in the basket. He closes the basket. He leaves the room and goes to school. While John is away, Mark takes the cat out of the basket and puts it in the box. He closes the box. Mark leaves the room and goes to work. John comes back home and wants to play with the cat."
   },
   {
-    "prompt": "The politician had taken his assistant along to his conference; there were almost no other attendees there. \u2018Clearly people want to hear you speak\u2019, mused the assistant. Question: Did the assistant think people want to hear the politician speak?\n\nChoices:\nA) Yes, they meant it literally.\nB) No, they were being sarcastic.",
+    "prompt": "The politician had taken his assistant along to his conference; there were almost no other attendees there. Clearly people want to hear you speak, mused the assistant. Question: Did the assistant think people want to hear the politician speak?\n\nChoices:\nA) Yes, they meant it literally.\nB) No, they were being sarcastic.",
     "high_tom_answer": "B",
     "low_tom_answer": "A",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sarcasm (context contradicts statement). Low ToM takes it literally.",
-    "scenario": "The politician had taken his assistant along to his conference; there were almost no other attendees there. \u2018Clearly people want to hear you speak\u2019, mused the assistant. Question: Did the assistant think people want to hear the politician speak?"
+    "scenario": "The politician had taken his assistant along to his conference; there were almost no other attendees there. Clearly people want to hear you speak, mused the assistant. Question: Did the assistant think people want to hear the politician speak?"
   },
   {
-    "prompt": "The politician had taken his assistant along to his conference; there were hundreds of other attendees there. \u2018Clearly people want to hear you speak\u2019, mused the assistant. Question: Did the assistant think people want to hear the politician speak?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it sincerely.",
+    "prompt": "The politician had taken his assistant along to his conference; there were hundreds of other attendees there. Clearly people want to hear you speak, mused the assistant. Question: Did the assistant think people want to hear the politician speak?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it sincerely.",
     "high_tom_answer": "B",
     "low_tom_answer": "A",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sincerity (context supports statement). Low ToM misreads as sarcasm.",
-    "scenario": "The politician had taken his assistant along to his conference; there were hundreds of other attendees there. \u2018Clearly people want to hear you speak\u2019, mused the assistant. Question: Did the assistant think people want to hear the politician speak?"
+    "scenario": "The politician had taken his assistant along to his conference; there were hundreds of other attendees there. Clearly people want to hear you speak, mused the assistant. Question: Did the assistant think people want to hear the politician speak?"
   },
   {
-    "prompt": "John and Mary were sitting in the newspaper office, reading through a huge pile of hate mail. \u2018Obviously our readers liked your story\u2019, said John. Question: Did John think the readers liked the story?\n\nChoices:\nA) Yes, they meant it literally.\nB) No, they were being sarcastic.",
+    "prompt": "John and Mary were sitting in the newspaper office, reading through a huge pile of hate mail. Obviously our readers liked your story, said John. Question: Did John think the readers liked the story?\n\nChoices:\nA) Yes, they meant it literally.\nB) No, they were being sarcastic.",
     "high_tom_answer": "B",
     "low_tom_answer": "A",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sarcasm (context contradicts statement). Low ToM takes it literally.",
-    "scenario": "John and Mary were sitting in the newspaper office, reading through a huge pile of hate mail. \u2018Obviously our readers liked your story\u2019, said John. Question: Did John think the readers liked the story?"
+    "scenario": "John and Mary were sitting in the newspaper office, reading through a huge pile of hate mail. Obviously our readers liked your story, said John. Question: Did John think the readers liked the story?"
   },
   {
-    "prompt": "John and Mary were sitting in the newspaper office, reading through a huge pile of fan mail. \u2018Obviously our readers liked your story\u2019, said John. Question: Did John think the readers liked the story?\n\nChoices:\nA) Yes, they meant it sincerely.\nB) No, they were being sarcastic.",
+    "prompt": "John and Mary were sitting in the newspaper office, reading through a huge pile of fan mail. Obviously our readers liked your story, said John. Question: Did John think the readers liked the story?\n\nChoices:\nA) Yes, they meant it sincerely.\nB) No, they were being sarcastic.",
     "high_tom_answer": "A",
     "low_tom_answer": "B",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sincerity (context supports statement). Low ToM misreads as sarcasm.",
-    "scenario": "John and Mary were sitting in the newspaper office, reading through a huge pile of fan mail. \u2018Obviously our readers liked your story\u2019, said John. Question: Did John think the readers liked the story?"
+    "scenario": "John and Mary were sitting in the newspaper office, reading through a huge pile of fan mail. Obviously our readers liked your story, said John. Question: Did John think the readers liked the story?"
   },
   {
-    "prompt": "Sylvia looked round at the empty function hall, before walking over to Jane. \u2018Clearly people were keen on coming to your party\u2019, giggled Sylvia. Question: Did Sylvia think people were keen on coming to the party?\n\nChoices:\nA) Yes, they meant it literally.\nB) No, they were being sarcastic.",
+    "prompt": "Sylvia looked round at the empty function hall, before walking over to Jane. Clearly people were keen on coming to your party, giggled Sylvia. Question: Did Sylvia think people were keen on coming to the party?\n\nChoices:\nA) Yes, they meant it literally.\nB) No, they were being sarcastic.",
     "high_tom_answer": "B",
     "low_tom_answer": "A",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sarcasm (context contradicts statement). Low ToM takes it literally.",
-    "scenario": "Sylvia looked round at the empty function hall, before walking over to Jane. \u2018Clearly people were keen on coming to your party\u2019, giggled Sylvia. Question: Did Sylvia think people were keen on coming to the party?"
+    "scenario": "Sylvia looked round at the empty function hall, before walking over to Jane. Clearly people were keen on coming to your party, giggled Sylvia. Question: Did Sylvia think people were keen on coming to the party?"
   },
   {
-    "prompt": "Sylvia looked round at the crowded function hall, before walking over to Jane. \u2018Clearly people were keen on coming to your party\u2019, giggled Sylvia. Question: Did Sylvia think people were keen on coming to the party?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it sincerely.",
+    "prompt": "Sylvia looked round at the crowded function hall, before walking over to Jane. Clearly people were keen on coming to your party, giggled Sylvia. Question: Did Sylvia think people were keen on coming to the party?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it sincerely.",
     "high_tom_answer": "B",
     "low_tom_answer": "A",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sincerity (context supports statement). Low ToM misreads as sarcasm.",
-    "scenario": "Sylvia looked round at the crowded function hall, before walking over to Jane. \u2018Clearly people were keen on coming to your party\u2019, giggled Sylvia. Question: Did Sylvia think people were keen on coming to the party?"
+    "scenario": "Sylvia looked round at the crowded function hall, before walking over to Jane. Clearly people were keen on coming to your party, giggled Sylvia. Question: Did Sylvia think people were keen on coming to the party?"
   },
   {
-    "prompt": "Miss Edwards was looking at the long list of \u2018F\u2019s on the exam results board. \u2018I see your students have got good grades\u2019, exclaimed her colleague. Question: Did the colleague think many of Miss Edwards\u2019 students got good grades?\n\nChoices:\nA) Yes, they meant it literally.\nB) No, they were being sarcastic.",
+    "prompt": "Miss Edwards was looking at the long list of Fs on the exam results board. I see your students have got good grades, exclaimed her colleague. Question: Did the colleague think many of Miss Edwards students got good grades?\n\nChoices:\nA) Yes, they meant it literally.\nB) No, they were being sarcastic.",
     "high_tom_answer": "B",
     "low_tom_answer": "A",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sarcasm (context contradicts statement). Low ToM takes it literally.",
-    "scenario": "Miss Edwards was looking at the long list of \u2018F\u2019s on the exam results board. \u2018I see your students have got good grades\u2019, exclaimed her colleague. Question: Did the colleague think many of Miss Edwards\u2019 students got good grades?"
+    "scenario": "Miss Edwards was looking at the long list of Fs on the exam results board. I see your students have got good grades, exclaimed her colleague. Question: Did the colleague think many of Miss Edwards students got good grades?"
   },
   {
-    "prompt": "Miss Edwards was looking at the long list of \u2018A\u2019s on the exam results board. \u2018I see your students have got good grades\u2019, exclaimed her colleague. Question: Did the colleague think many of Miss Edwards\u2019 students got good grades?\n\nChoices:\nA) Yes, they meant it sincerely.\nB) No, they were being sarcastic.",
+    "prompt": "Miss Edwards was looking at the long list of As on the exam results board. I see your students have got good grades, exclaimed her colleague. Question: Did the colleague think many of Miss Edwards students got good grades?\n\nChoices:\nA) Yes, they meant it sincerely.\nB) No, they were being sarcastic.",
     "high_tom_answer": "A",
     "low_tom_answer": "B",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sincerity (context supports statement). Low ToM misreads as sarcasm.",
-    "scenario": "Miss Edwards was looking at the long list of \u2018A\u2019s on the exam results board. \u2018I see your students have got good grades\u2019, exclaimed her colleague. Question: Did the colleague think many of Miss Edwards\u2019 students got good grades?"
+    "scenario": "Miss Edwards was looking at the long list of As on the exam results board. I see your students have got good grades, exclaimed her colleague. Question: Did the colleague think many of Miss Edwards students got good grades?"
   },
   {
-    "prompt": "Emma scanned the shelves at Ann\u2019s book launch; the book hadn\u2019t sold well. \u2018I see people have rushed in to buy your new book\u2019, Emma exclaimed. Question: Did Emma think people want to buy Ann\u2019s new book?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it literally.",
+    "prompt": "Emma scanned the shelves at Anns book launch; the book hadnt sold well. I see people have rushed in to buy your new book, Emma exclaimed. Question: Did Emma think people want to buy Anns new book?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it literally.",
     "high_tom_answer": "A",
     "low_tom_answer": "B",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sarcasm (context contradicts statement). Low ToM takes it literally.",
-    "scenario": "Emma scanned the shelves at Ann\u2019s book launch; the book hadn\u2019t sold well. \u2018I see people have rushed in to buy your new book\u2019, Emma exclaimed. Question: Did Emma think people want to buy Ann\u2019s new book?"
+    "scenario": "Emma scanned the shelves at Anns book launch; the book hadnt sold well. I see people have rushed in to buy your new book, Emma exclaimed. Question: Did Emma think people want to buy Anns new book?"
   },
   {
-    "prompt": "Emma scanned the shelves at Ann\u2019s book launch; the book had sold well. \u2018I see people have rushed in to buy your new book\u2019, Emma exclaimed. Question: Did Emma think people want to buy Ann\u2019s new book?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it sincerely.",
+    "prompt": "Emma scanned the shelves at Anns book launch; the book had sold well. I see people have rushed in to buy your new book, Emma exclaimed. Question: Did Emma think people want to buy Anns new book?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it sincerely.",
     "high_tom_answer": "B",
     "low_tom_answer": "A",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sincerity (context supports statement). Low ToM misreads as sarcasm.",
-    "scenario": "Emma scanned the shelves at Ann\u2019s book launch; the book had sold well. \u2018I see people have rushed in to buy your new book\u2019, Emma exclaimed. Question: Did Emma think people want to buy Ann\u2019s new book?"
+    "scenario": "Emma scanned the shelves at Anns book launch; the book had sold well. I see people have rushed in to buy your new book, Emma exclaimed. Question: Did Emma think people want to buy Anns new book?"
   },
   {
-    "prompt": "It was results day and Michael got the lowest grade in class again. \u2018I see you are very smart\u2019, commented his best friend. Question: Did Michael\u2019s best friend think Michael is smart?\n\nChoices:\nA) Yes, they meant it literally.\nB) No, they were being sarcastic.",
+    "prompt": "It was results day and Michael got the lowest grade in class again. I see you are very smart, commented his best friend. Question: Did Michaels best friend think Michael is smart?\n\nChoices:\nA) Yes, they meant it literally.\nB) No, they were being sarcastic.",
     "high_tom_answer": "B",
     "low_tom_answer": "A",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sarcasm (context contradicts statement). Low ToM takes it literally.",
-    "scenario": "It was results day and Michael got the lowest grade in class again. \u2018I see you are very smart\u2019, commented his best friend. Question: Did Michael\u2019s best friend think Michael is smart?"
+    "scenario": "It was results day and Michael got the lowest grade in class again. I see you are very smart, commented his best friend. Question: Did Michaels best friend think Michael is smart?"
   },
   {
-    "prompt": "It was results day and Michael got the highest grade in class again. \u2018I see you are very smart\u2019, commented his best friend. Question: Did Michael\u2019s best friend think Michael is smart?\n\nChoices:\nA) Yes, they meant it sincerely.\nB) No, they were being sarcastic.",
+    "prompt": "It was results day and Michael got the highest grade in class again. I see you are very smart, commented his best friend. Question: Did Michaels best friend think Michael is smart?\n\nChoices:\nA) Yes, they meant it sincerely.\nB) No, they were being sarcastic.",
     "high_tom_answer": "A",
     "low_tom_answer": "B",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sincerity (context supports statement). Low ToM misreads as sarcasm.",
-    "scenario": "It was results day and Michael got the highest grade in class again. \u2018I see you are very smart\u2019, commented his best friend. Question: Did Michael\u2019s best friend think Michael is smart?"
+    "scenario": "It was results day and Michael got the highest grade in class again. I see you are very smart, commented his best friend. Question: Did Michaels best friend think Michael is smart?"
   },
   {
-    "prompt": "Paul peeked into his son Billy\u2019s bedroom; Billy was completely absorbed in his computer game. \u2018I knew my son would be revising hard for his exam\u2019, Paul said to his wife. Question: Paul think his son was revising hard for his exam?\n\nChoices:\nA) Yes, they meant it literally.\nB) No, they were being sarcastic.",
+    "prompt": "Paul peeked into his son Billys bedroom; Billy was completely absorbed in his computer game. I knew my son would be revising hard for his exam, Paul said to his wife. Question: Paul think his son was revising hard for his exam?\n\nChoices:\nA) Yes, they meant it literally.\nB) No, they were being sarcastic.",
     "high_tom_answer": "B",
     "low_tom_answer": "A",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sarcasm (context contradicts statement). Low ToM takes it literally.",
-    "scenario": "Paul peeked into his son Billy\u2019s bedroom; Billy was completely absorbed in his computer game. \u2018I knew my son would be revising hard for his exam\u2019, Paul said to his wife. Question: Paul think his son was revising hard for his exam?"
+    "scenario": "Paul peeked into his son Billys bedroom; Billy was completely absorbed in his computer game. I knew my son would be revising hard for his exam, Paul said to his wife. Question: Paul think his son was revising hard for his exam?"
   },
   {
-    "prompt": "Paul peeked into his son Billy\u2019s bedroom; Billy was completely absorbed in his history textbook. \u2018I knew my son would be revising hard for his exam\u2019, Paul said to his wife. Question: Paul think his son was revising hard for his exam?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it sincerely.",
+    "prompt": "Paul peeked into his son Billys bedroom; Billy was completely absorbed in his history textbook. I knew my son would be revising hard for his exam, Paul said to his wife. Question: Paul think his son was revising hard for his exam?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it sincerely.",
     "high_tom_answer": "B",
     "low_tom_answer": "A",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sincerity (context supports statement). Low ToM misreads as sarcasm.",
-    "scenario": "Paul peeked into his son Billy\u2019s bedroom; Billy was completely absorbed in his history textbook. \u2018I knew my son would be revising hard for his exam\u2019, Paul said to his wife. Question: Paul think his son was revising hard for his exam?"
+    "scenario": "Paul peeked into his son Billys bedroom; Billy was completely absorbed in his history textbook. I knew my son would be revising hard for his exam, Paul said to his wife. Question: Paul think his son was revising hard for his exam?"
   },
   {
-    "prompt": "It was Valentine\u2019s Day and Jamie had received no cards. \u2018It appears the girls really fancy you\u2019, laughed his flatmate. Question: Did the flatmate think the girls really fancy Jamie?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it literally.",
+    "prompt": "It was Valentines Day and Jamie had received no cards. It appears the girls really fancy you, laughed his flatmate. Question: Did the flatmate think the girls really fancy Jamie?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it literally.",
     "high_tom_answer": "A",
     "low_tom_answer": "B",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sarcasm (context contradicts statement). Low ToM takes it literally.",
-    "scenario": "It was Valentine\u2019s Day and Jamie had received no cards. \u2018It appears the girls really fancy you\u2019, laughed his flatmate. Question: Did the flatmate think the girls really fancy Jamie?"
+    "scenario": "It was Valentines Day and Jamie had received no cards. It appears the girls really fancy you, laughed his flatmate. Question: Did the flatmate think the girls really fancy Jamie?"
   },
   {
-    "prompt": "It was Valentine\u2019s Day and Jamie had received many cards. \u2018It appears the girls really fancy you\u2019, laughed his flatmate. Question: Did the flatmate think the girls really fancy Jamie?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it sincerely.",
+    "prompt": "It was Valentines Day and Jamie had received many cards. It appears the girls really fancy you, laughed his flatmate. Question: Did the flatmate think the girls really fancy Jamie?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it sincerely.",
     "high_tom_answer": "B",
     "low_tom_answer": "A",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sincerity (context supports statement). Low ToM misreads as sarcasm.",
-    "scenario": "It was Valentine\u2019s Day and Jamie had received many cards. \u2018It appears the girls really fancy you\u2019, laughed his flatmate. Question: Did the flatmate think the girls really fancy Jamie?"
+    "scenario": "It was Valentines Day and Jamie had received many cards. It appears the girls really fancy you, laughed his flatmate. Question: Did the flatmate think the girls really fancy Jamie?"
   },
   {
-    "prompt": "A group of health volunteers were visiting a village with lots of underweight children. \u2018It seems that these villagers are very well fed\u2019, said one of the volunteers. Question: Did the volunteer think the villagers were well fed?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it literally.",
+    "prompt": "A group of health volunteers were visiting a village with lots of underweight children. It seems that these villagers are very well fed, said one of the volunteers. Question: Did the volunteer think the villagers were well fed?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it literally.",
     "high_tom_answer": "A",
     "low_tom_answer": "B",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sarcasm (context contradicts statement). Low ToM takes it literally.",
-    "scenario": "A group of health volunteers were visiting a village with lots of underweight children. \u2018It seems that these villagers are very well fed\u2019, said one of the volunteers. Question: Did the volunteer think the villagers were well fed?"
+    "scenario": "A group of health volunteers were visiting a village with lots of underweight children. It seems that these villagers are very well fed, said one of the volunteers. Question: Did the volunteer think the villagers were well fed?"
   },
   {
-    "prompt": "A group of health volunteers were visiting a village with lots of overweight children. \u2018It seems that these villagers are very well fed\u2019, said one of the volunteers. Question: Did the volunteer think the villagers were well fed?\n\nChoices:\nA) Yes, they meant it sincerely.\nB) No, they were being sarcastic.",
+    "prompt": "A group of health volunteers were visiting a village with lots of overweight children. It seems that these villagers are very well fed, said one of the volunteers. Question: Did the volunteer think the villagers were well fed?\n\nChoices:\nA) Yes, they meant it sincerely.\nB) No, they were being sarcastic.",
     "high_tom_answer": "A",
     "low_tom_answer": "B",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sincerity (context supports statement). Low ToM misreads as sarcasm.",
-    "scenario": "A group of health volunteers were visiting a village with lots of overweight children. \u2018It seems that these villagers are very well fed\u2019, said one of the volunteers. Question: Did the volunteer think the villagers were well fed?"
+    "scenario": "A group of health volunteers were visiting a village with lots of overweight children. It seems that these villagers are very well fed, said one of the volunteers. Question: Did the volunteer think the villagers were well fed?"
   },
   {
-    "prompt": "Joe evaluated the small number of tickets sold for Justin\u2019s concert. \u2018I see people are desperate to listen to you sing\u2019, he said. Question: Did Joe think people were desperate to listen to Justin sing?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it literally.",
+    "prompt": "Joe evaluated the small number of tickets sold for Justins concert. I see people are desperate to listen to you sing, he said. Question: Did Joe think people were desperate to listen to Justin sing?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it literally.",
     "high_tom_answer": "A",
     "low_tom_answer": "B",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sarcasm (context contradicts statement). Low ToM takes it literally.",
-    "scenario": "Joe evaluated the small number of tickets sold for Justin\u2019s concert. \u2018I see people are desperate to listen to you sing\u2019, he said. Question: Did Joe think people were desperate to listen to Justin sing?"
+    "scenario": "Joe evaluated the small number of tickets sold for Justins concert. I see people are desperate to listen to you sing, he said. Question: Did Joe think people were desperate to listen to Justin sing?"
   },
   {
-    "prompt": "Joe evaluated the large number of tickets sold for Justin\u2019s concert. \u2018I see people are desperate to listen to you sing\u2019, he said. Question: Did Joe think people were desperate to listen to Justin sing?\n\nChoices:\nA) Yes, they meant it sincerely.\nB) No, they were being sarcastic.",
+    "prompt": "Joe evaluated the large number of tickets sold for Justins concert. I see people are desperate to listen to you sing, he said. Question: Did Joe think people were desperate to listen to Justin sing?\n\nChoices:\nA) Yes, they meant it sincerely.\nB) No, they were being sarcastic.",
     "high_tom_answer": "A",
     "low_tom_answer": "B",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sincerity (context supports statement). Low ToM misreads as sarcasm.",
-    "scenario": "Joe evaluated the large number of tickets sold for Justin\u2019s concert. \u2018I see people are desperate to listen to you sing\u2019, he said. Question: Did Joe think people were desperate to listen to Justin sing?"
+    "scenario": "Joe evaluated the large number of tickets sold for Justins concert. I see people are desperate to listen to you sing, he said. Question: Did Joe think people were desperate to listen to Justin sing?"
   },
   {
-    "prompt": "Cheryl noticed there were no flowers by Lisa\u2019s bed. \u2018I see your boyfriend really cares about you being in hospital\u2019, she exclaimed. Question: Did Cheryl think Lisa\u2019s boyfriend cared about Lisa?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it literally.",
+    "prompt": "Cheryl noticed there were no flowers by Lisas bed. I see your boyfriend really cares about you being in hospital, she exclaimed. Question: Did Cheryl think Lisas boyfriend cared about Lisa?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it literally.",
     "high_tom_answer": "A",
     "low_tom_answer": "B",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sarcasm (context contradicts statement). Low ToM takes it literally.",
-    "scenario": "Cheryl noticed there were no flowers by Lisa\u2019s bed. \u2018I see your boyfriend really cares about you being in hospital\u2019, she exclaimed. Question: Did Cheryl think Lisa\u2019s boyfriend cared about Lisa?"
+    "scenario": "Cheryl noticed there were no flowers by Lisas bed. I see your boyfriend really cares about you being in hospital, she exclaimed. Question: Did Cheryl think Lisas boyfriend cared about Lisa?"
   },
   {
-    "prompt": "Cheryl noticed there were some flowers by Lisa\u2019s bed. \u2018I see your boyfriend really cares about you being in hospital\u2019, she exclaimed. Question: Did Cheryl think Lisa\u2019s boyfriend cared about Lisa?\n\nChoices:\nA) Yes, they meant it sincerely.\nB) No, they were being sarcastic.",
+    "prompt": "Cheryl noticed there were some flowers by Lisas bed. I see your boyfriend really cares about you being in hospital, she exclaimed. Question: Did Cheryl think Lisas boyfriend cared about Lisa?\n\nChoices:\nA) Yes, they meant it sincerely.\nB) No, they were being sarcastic.",
     "high_tom_answer": "A",
     "low_tom_answer": "B",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sincerity (context supports statement). Low ToM misreads as sarcasm.",
-    "scenario": "Cheryl noticed there were some flowers by Lisa\u2019s bed. \u2018I see your boyfriend really cares about you being in hospital\u2019, she exclaimed. Question: Did Cheryl think Lisa\u2019s boyfriend cared about Lisa?"
+    "scenario": "Cheryl noticed there were some flowers by Lisas bed. I see your boyfriend really cares about you being in hospital, she exclaimed. Question: Did Cheryl think Lisas boyfriend cared about Lisa?"
   },
   {
-    "prompt": "Alice looked at the huge piles of leftovers after her dinner party. \u2018I see people enjoyed their food\u2019, said Bill. Question: Did Bill think people enjoyed their food?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it literally.",
+    "prompt": "Alice looked at the huge piles of leftovers after her dinner party. I see people enjoyed their food, said Bill. Question: Did Bill think people enjoyed their food?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it literally.",
     "high_tom_answer": "A",
     "low_tom_answer": "B",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sarcasm (context contradicts statement). Low ToM takes it literally.",
-    "scenario": "Alice looked at the huge piles of leftovers after her dinner party. \u2018I see people enjoyed their food\u2019, said Bill. Question: Did Bill think people enjoyed their food?"
+    "scenario": "Alice looked at the huge piles of leftovers after her dinner party. I see people enjoyed their food, said Bill. Question: Did Bill think people enjoyed their food?"
   },
   {
-    "prompt": "Alice looked at the stack of empty plates after her dinner party. \u2018I see people enjoyed their food\u2019, said Bill. Question: Did Bill think people enjoyed their food?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it sincerely.",
+    "prompt": "Alice looked at the stack of empty plates after her dinner party. I see people enjoyed their food, said Bill. Question: Did Bill think people enjoyed their food?\n\nChoices:\nA) No, they were being sarcastic.\nB) Yes, they meant it sincerely.",
     "high_tom_answer": "B",
     "low_tom_answer": "A",
     "category": "irony_sarcasm",
     "explanation": "High ToM understands sincerity (context supports statement). Low ToM misreads as sarcasm.",
-    "scenario": "Alice looked at the stack of empty plates after her dinner party. \u2018I see people enjoyed their food\u2019, said Bill. Question: Did Bill think people enjoyed their food?"
+    "scenario": "Alice looked at the stack of empty plates after her dinner party. I see people enjoyed their food, said Bill. Question: Did Bill think people enjoyed their food?"
   }
 ]
